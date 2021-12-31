@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're Hotellistat,
+We're Hotellistat,Cancel changes
 
 and we are creating the next generation of hotel RMB* software.
 
@@ -11,7 +11,7 @@ We accept contributions to our OSS projects.
 Please follow these steps to get started:
 
 1. Navigate to the project
-2. Create a new issue, stating what you would like to contribute and what your contributions solves
+2. Create a new issue, stating what you would like to contribute and what it solves
 3. We'll discuss your issue and will accept or reject your offer
 4. You, others or we can then create a PR that solves your issue
 
