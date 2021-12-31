@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-We're Hotellistat. And we are creating the next-gen of hotel management software.
+We're Hotellistat,
+
+and we are creating the next generation of hotel RMB* software.
 
 ### Contribution
 
@@ -17,3 +19,6 @@ Please follow these steps to get started:
 
 Docs and resources for OSS projects can be found in their correclating wiki/discussions.
 Since we don't really have any community managers, we can't guarantee any timely response, since it's just us, les développeurs :)
+
+
+<sub><sup>* RMB: Revenue-management, Market-analysis and Business-intelligence</sup></sub>
