@@ -18,7 +18,7 @@ Please follow these simple steps to get started:
 ### Resources
 
 Docs and resources for OSS projects can be found in their correclating wiki/discussions.
-Since we don't really have any community managers, we can't guarantee any timely response, since it's just us, les développeurs :)
+Since we don't really have any community managers we can't guarantee any timely response. It's just us, les développeurs :)
 
 
 <sub><sup>* RMB: Revenue-management, Market-analysis and Business-intelligence</sup></sub>
