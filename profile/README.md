@@ -4,6 +4,8 @@
 
 and we are creating the next generation of hotel RMB* software.
 
+<sub><sup>* RMB: Revenue-management, Market-analysis and Business-intelligence</sup></sub>
+
 ### Contribution
 
 We accept contributions to our OSS projects. 
@@ -20,5 +22,6 @@ Please follow these simple steps to get started:
 Docs and resources for OSS projects can be found in their correclating wiki/discussions.
 Since we don't really have any community managers we can't guarantee any timely response. It's just us, les développeurs :)
 
+### Hiring
 
-<sub><sup>* RMB: Revenue-management, Market-analysis and Business-intelligence</sup></sub>
+We're currently hiring tech talent all over the world. Leave us a message if you're interested! 😄 
