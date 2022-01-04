@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're Hotellistat,
+### We're Hotellistat,
 
 and we are creating the next generation of hotel RMB* software.
 
