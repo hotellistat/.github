@@ -26,4 +26,4 @@ Since we don't really have any community managers we can't guarantee any timely 
 
 We're currently hiring tech talent all over the world. Leave us a message if you're interested! 😄 
 
-Have a look at our [carreers](https://www.hotellistat.com/carreer) page so view current job openings.
+Have a look at our [careers](https://www.hotellistat.com/career) page so view current job openings.
