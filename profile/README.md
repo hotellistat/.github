@@ -2,9 +2,7 @@
 
 ### We're Hotellistat,
 
-and we are creating the next generation of hotel RMB* software.
-
-<sub><sup>* RMB: Revenue-management, Market-analysis and Business-intelligence</sup></sub>
+and we are creating the next generation of hotel RMB software.
 
 ### Contribution
 
