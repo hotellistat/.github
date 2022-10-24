@@ -15,6 +15,7 @@
       "groupName": "Github maintained actions",
       "groupSlug": "github-actions",
       "automerge": true,
+      "ignoreTests": true
       "addLabels": ["github-actions"],
       "matchManagers": ["github-actions"]
     },
@@ -24,6 +25,7 @@
       ],
       "addLabels": ["non-major"],
       "automerge": true,
+      "ignoreTests": true
       "matchUpdateTypes": [
         "minor",
         "patch"
