@@ -2,7 +2,6 @@
   "timezone": "Europe/Berlin",
   "extends": [
     "config:base",
-    "group:allNonMajor"
   ],
   "schedule": [
     "every month"
@@ -17,6 +16,18 @@
       "groupSlug": "github-actions",
       "addLabels": ["github-actions"],
       "matchManagers": ["github-actions"]
+    },
+    {
+      "matchPackagePatterns": [
+        "*"
+      ],
+      "addLabels": ["non-major"],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "groupName": "all non-major dependencies",
+      "groupSlug": "all-minor-patch"
     }
   ]
 }
