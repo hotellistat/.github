@@ -9,11 +9,13 @@
   ],
   "commitBody": "[skip ci]",
   "automerge": true,
+  "labels": ["dependencies"],
   "packageRules": [
     {
       "description": "All Github maintained actions",
       "groupName": "Github maintained actions",
       "groupSlug": "github-actions",
+      "labels": ["dependencies", "github-actions"],
       "matchManagers": ["github-actions"]
     }
   ]
