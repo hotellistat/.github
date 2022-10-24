@@ -15,7 +15,7 @@
       "description": "All Github maintained actions",
       "groupName": "Github maintained actions",
       "groupSlug": "github-actions",
-      "labels": ["dependencies", "github-actions"],
+      "addLabels": ["github-actions"],
       "matchManagers": ["github-actions"]
     }
   ]
