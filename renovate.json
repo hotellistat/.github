@@ -2,6 +2,7 @@
   "timezone": "Europe/Berlin",
   "extends": [
     "config:base",
+    "group:monorepos"
   ],
   "schedule": [
     "every month"
