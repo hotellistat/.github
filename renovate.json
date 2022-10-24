@@ -2,7 +2,6 @@
   "timezone": "Europe/Berlin",
   "extends": [
     "config:base",
-    "group:monorepos"
   ],
   "schedule": [
     "every month"
@@ -29,6 +28,12 @@
       ],
       "groupName": "all non-major dependencies",
       "groupSlug": "all-minor-patch"
+    },
+    {
+      "extends": [ 
+        "group:monorepos" 
+      ],
+      "addLabels": ["monorepo"],
     }
   ]
 }
