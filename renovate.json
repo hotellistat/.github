@@ -5,7 +5,7 @@
     "group:allNonMajor"
   ],
   "schedule": [
-    "every sunday night"
+    "every month at night"
   ],
   "commitBody": "[skip ci]",
   "automerge": true,
