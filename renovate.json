@@ -8,13 +8,13 @@
     "every month"
   ],
   "commitBody": "[skip ci]",
-  "automerge": true,
   "labels": ["dependencies"],
   "packageRules": [
     {
       "description": "All Github maintained actions",
       "groupName": "Github maintained actions",
       "groupSlug": "github-actions",
+      "automerge": true,
       "addLabels": ["github-actions"],
       "matchManagers": ["github-actions"]
     },
@@ -23,6 +23,7 @@
         "*"
       ],
       "addLabels": ["non-major"],
+      "automerge": true,
       "matchUpdateTypes": [
         "minor",
         "patch"
