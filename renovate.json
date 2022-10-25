@@ -32,6 +32,19 @@
       ],
       "groupName": "all non-major dependencies",
       "groupSlug": "all-minor-patch"
+    },
+    {
+      "matchPackagePatterns": [
+        "*"
+      ],
+      "addLabels": ["dev"],
+      "automerge": true,
+      "ignoreTests": true,
+      "matchDepTypes": [
+        "devDependencies"
+      ],
+      "groupName": "all dev dependencies",
+      "groupSlug": "all-dev-patch"
     }
   ]
 }
