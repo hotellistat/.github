@@ -9,6 +9,7 @@
   ],
   "commitBody": "[skip ci]",
   "labels": ["dependencies"],
+  "platformAutomerge": true,
   "packageRules": [
     {
       "description": "All Github maintained actions",
