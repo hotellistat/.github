@@ -25,7 +25,6 @@
         "*"
       ],
       "addLabels": ["non-major"],
-      "automerge": true,
       "ignoreTests": true,
       "matchUpdateTypes": [
         "minor",
@@ -39,7 +38,6 @@
         "*"
       ],
       "addLabels": ["dev"],
-      "automerge": true,
       "ignoreTests": true,
       "matchDepTypes": [
         "devDependencies"
