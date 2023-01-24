@@ -25,6 +25,7 @@
         "*"
       ],
       "addLabels": ["non-major"],
+      "automerge": true,
       "ignoreTests": true,
       "matchUpdateTypes": [
         "minor",
