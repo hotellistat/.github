@@ -26,7 +26,7 @@
       ],
       "addLabels": ["non-major"],
       "automerge": true,
-      "stabilityDays": 14
+      "stabilityDays": 14,
       "ignoreTests": true,
       "matchUpdateTypes": [
         "minor",
