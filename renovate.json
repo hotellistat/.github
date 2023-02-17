@@ -5,7 +5,7 @@
     "group:monorepos"
   ],
   "schedule": [
-    "every month on the first day of the month"
+    "every first day of the month"
   ],
   "commitBody": "[skip ci]",
   "labels": ["dependencies"],
